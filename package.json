@@ -1,0 +1,28 @@
+{
+  "name": "redux-example",
+  "version": "1.0.0",
+  "description": "redux-example\r =============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --open=app.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-pacheco/redux-example.git"
+  },
+  "author": "Wilfredo Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w-pacheco/redux-example/issues"
+  },
+  "homepage": "https://github.com/w-pacheco/redux-example#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.1",
+    "jszip": "^3.10.1",
+    "live-server": "^1.2.2",
+    "pace-js": "^1.2.4",
+    "redux": "^4.2.0"
+  }
+}
